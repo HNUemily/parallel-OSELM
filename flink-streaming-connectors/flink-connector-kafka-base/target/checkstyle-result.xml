@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumerBase.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducerBase.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\AbstractFetcher.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\ExceptionProxy.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\KafkaTopicPartition.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\KafkaTopicPartitionLeader.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\KafkaTopicPartitionState.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\KafkaTopicPartitionStateWithPeriodicWatermarks.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\KafkaTopicPartitionStateWithPunctuatedWatermarks.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\metrics\KafkaMetricWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\KafkaJsonTableSource.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\KafkaTableSource.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\partitioner\FixedPartitioner.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\connectors\kafka\partitioner\KafkaPartitioner.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\JSONDeserializationSchema.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\JSONKeyValueDeserializationSchema.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\JsonRowDeserializationSchema.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\KeyedDeserializationSchema.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\KeyedDeserializationSchemaWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\KeyedSerializationSchema.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\KeyedSerializationSchemaWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\main\java\org\apache\flink\streaming\util\serialization\TypeInformationKeyValueSerializationSchema.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-base\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

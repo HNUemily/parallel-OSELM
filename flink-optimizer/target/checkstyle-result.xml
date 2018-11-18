@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\CompilerException.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\CompilerPostPassException.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\costs\CostEstimator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\costs\Costs.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\costs\DefaultCostEstimator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\AbstractPartialSolutionNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\BinaryUnionNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\BulkIterationNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\BulkPartialSolutionNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\CoGroupNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\CoGroupRawNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\CrossNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\DagConnection.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\DataSinkNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\DataSourceNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\EstimateProvider.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\FilterNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\FlatMapNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\GroupCombineNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\GroupReduceNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\InterestingPropertiesClearer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\IterationNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\JoinNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\MapNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\MapPartitionNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\NoOpNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\OptimizerNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\OuterJoinNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\PartitionNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\PlanCacheCleaner.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\ReduceNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\SingleInputNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\SinkJoiner.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\SolutionSetNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\SortPartitionNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\TempMode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\TwoInputNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\UnaryOperatorNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\WorksetIterationNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dag\WorksetNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dataproperties\GlobalProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dataproperties\InterestingProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dataproperties\LocalProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dataproperties\PartitioningProperty.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dataproperties\RequestedGlobalProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\dataproperties\RequestedLocalProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\DataStatistics.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\AbstractJoinDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\AbstractOperatorDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\AbstractSortMergeJoinDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\AllGroupCombineProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\AllGroupReduceProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\AllGroupWithPartialPreGroupProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\AllReduceProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\BinaryUnionOpDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CartesianProductDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CoGroupDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CoGroupRawDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CoGroupWithSolutionSetFirstDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CoGroupWithSolutionSetSecondDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CrossBlockOuterFirstDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CrossBlockOuterSecondDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CrossStreamOuterFirstDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\CrossStreamOuterSecondDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\FilterDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\FlatMapDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\GroupCombineProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\GroupReduceProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\GroupReduceWithCombineProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashFullOuterJoinBuildFirstDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashFullOuterJoinBuildSecondDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashJoinBuildFirstProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashJoinBuildSecondProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashLeftOuterJoinBuildFirstDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashLeftOuterJoinBuildSecondDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashRightOuterJoinBuildFirstDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\HashRightOuterJoinBuildSecondDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\MapDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\MapPartitionDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\NoOpDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\OperatorDescriptorDual.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\OperatorDescriptorSingle.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\PartialGroupProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\ReduceProperties.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\SolutionSetDeltaOperator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\SortMergeFullOuterJoinDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\SortMergeInnerJoinDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\SortMergeLeftOuterJoinDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\SortMergeRightOuterJoinDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\operators\UtilSinkJoinOpDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\Optimizer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\BinaryUnionPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\BulkIterationPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\BulkPartialSolutionPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\Channel.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\DualInputPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\FlinkPlan.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\IterationPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\NamedChannel.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\NAryUnionPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\OptimizedPlan.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\PlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\SingleInputPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\SinkJoinerPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\SinkPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\SolutionSetPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\SourcePlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\StreamingPlan.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\WorksetIterationPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plan\WorksetPlanNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plandump\DumpableConnection.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plandump\DumpableNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plandump\PlanJSONDumpGenerator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plantranslate\JobGraphGenerator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\plantranslate\JsonMapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\postpass\AbstractSchema.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\postpass\ConflictingFieldTypeInfoException.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\postpass\GenericFlatTypePostPass.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\postpass\JavaApiPostPass.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\postpass\MissingFieldTypeInfoException.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\postpass\OptimizerPostPass.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\BinaryUnionReplacer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\BranchesVisitor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\GraphCreatingVisitor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\IdAndEstimatesVisitor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\InterestingPropertyVisitor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\package-info.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\PlanFinalizer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\RangePartitionRewriter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\StaticDynamicPathIdentifier.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\traversals\StepFunctionValidator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\util\NoOpBinaryUdfOp.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\util\NoOpUnaryUdfOp.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\main\java\org\apache\flink\optimizer\util\Utils.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-optimizer\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

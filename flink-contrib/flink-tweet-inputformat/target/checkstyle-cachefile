@@ -1,0 +1,19 @@
+#Mon Apr 17 20:51:23 CST 2017
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\entities\\Entities.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\User\\Users.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\places\\Attributes.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\entities\\URL.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\entities\\Media.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\entities\\HashTags.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\entities\\UserMention.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\io\\SimpleTweetInputFormat.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\entities\\Symbol.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\CurrentUserRetweet.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\Tweet.java=1482144169000
+configuration*?=AB953730F55A358F3BF593A746E696386BDF633B
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\io\\TweetHandler.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\places\\Places.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\entities\\Size.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\Coordinates.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\tweet\\Contributors.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-contrib\\flink-tweet-inputformat\\src\\main\\java\\org\\apache\\flink\\contrib\\tweetinputformat\\model\\places\\BoundingBox.java=1482144169000

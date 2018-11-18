@@ -1,0 +1,3 @@
+org.apache.flink.examples.java8.relational
+org.apache.flink.examples.java8.wordcount
+org.apache.flink.streaming.examples.java8.wordcount

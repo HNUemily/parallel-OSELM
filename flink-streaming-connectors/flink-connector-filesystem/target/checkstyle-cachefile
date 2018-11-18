@@ -1,0 +1,13 @@
+#Mon Apr 17 20:41:42 CST 2017
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\AvroKeyValueSinkWriter.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\Bucketer.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\RollingSink.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\Writer.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\SystemClock.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\NonRollingBucketer.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\SequenceFileWriter.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\StreamWriterBase.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\Clock.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\StringWriter.java=1482144169000
+configuration*?=5A40AA86DA3C5433B4418C6E88460E1FFA1E3C1D
+E\:\\flink\\flink-1.1.4\\flink-streaming-connectors\\flink-connector-filesystem\\src\\main\\java\\org\\apache\\flink\\streaming\\connectors\\fs\\DateTimeBucketer.java=1482144169000

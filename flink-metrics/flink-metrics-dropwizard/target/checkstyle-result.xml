@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\main\java\org\apache\flink\dropwizard\metrics\DropwizardHistogramStatistics.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\main\java\org\apache\flink\dropwizard\metrics\DropwizardHistogramWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\main\java\org\apache\flink\dropwizard\metrics\FlinkCounterWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\main\java\org\apache\flink\dropwizard\metrics\FlinkGaugeWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\main\java\org\apache\flink\dropwizard\metrics\FlinkHistogramWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\main\java\org\apache\flink\dropwizard\metrics\HistogramStatisticsWrapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\main\java\org\apache\flink\dropwizard\ScheduledDropwizardReporter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-dropwizard\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

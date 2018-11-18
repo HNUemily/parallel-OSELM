@@ -1,0 +1,16 @@
+Comparing C:\Users\Administrator\.m2\repository\org\apache\flink\flink-streaming-java_2.10\1.0.0\flink-streaming-java_2.10-1.0.0.jar with E:\flink\flink-1.1.4\flink-streaming-java\target\flink-streaming-java_2.10-1.1.4.jar:
+***  MODIFIED CLASS: PUBLIC org.apache.flink.streaming.api.datastream.DataStreamSource  (not serializable)
+	+++  NEW CONSTRUCTOR: PUBLIC(+) DataStreamSource(org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator)
+***  MODIFIED CLASS: PUBLIC org.apache.flink.streaming.api.environment.CheckpointConfig  (compatible)
+	+++  NEW METHOD: PUBLIC(+) void setMinPauseBetweenCheckpoints(long)
+***  MODIFIED CLASS: PUBLIC org.apache.flink.streaming.api.environment.RemoteStreamEnvironment  (not serializable)
+	+++  NEW METHOD: PUBLIC(+) org.apache.flink.configuration.Configuration getClientConfiguration()
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.flink.streaming.api.environment.StreamExecutionEnvironment  (not serializable)
+	+++  NEW METHOD: PUBLIC(+) FINAL(+) org.apache.flink.streaming.api.datastream.DataStreamSource fromElements(java.lang.Class, java.lang.Object[])
+		+++  NEW ANNOTATION: java.lang.SafeVarargs
+	===  UNCHANGED METHOD: PUBLIC org.apache.flink.streaming.api.datastream.DataStream readFileStream(java.lang.String, long, org.apache.flink.streaming.api.functions.source.FileMonitoringFunction$WatchType)
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	+++  NEW METHOD: PUBLIC(+) org.apache.flink.streaming.api.datastream.DataStreamSource socketTextStream(java.lang.String, int, char, long)
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	+++  NEW METHOD: PUBLIC(+) org.apache.flink.streaming.api.datastream.DataStreamSource socketTextStream(java.lang.String, int, char)
+		+++  NEW ANNOTATION: java.lang.Deprecated

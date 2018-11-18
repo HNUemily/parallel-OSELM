@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.apache.flink.core.memory.HeapMemorySegmentTest" time="6.444" tests="81" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\jdk1.8\jre\bin"/>
+    <property name="java.vm.version" value="25.51-b03"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\flink\flink-1.1.4"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\flink\flink-1.1.4"/>
+    <property name="java.runtime.version" value="1.8.0_51-b16"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\jdk1.8\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\ADMINI~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\apache-maven-3.3.1-bin\apache-maven-3.3.1\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\jdk1.8\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;D:\jdk1.8\jre\bin;C:\Windows\System32;D:\apache-maven-3.3.1-bin\apache-maven-3.3.1\bin;E:\MT\R2014a\runtime\win64;E:\MT\R2014a\bin;E:\MT\R2014a\polyspace\bin;C:\Hspice 2007.03_Win\Hspice 2007.03_Win;d:\modelsim.se.v6.1f\win32;c:\Windows\System32;.;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\Administrator"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="Administrator"/>
+    <property name="java.class.path" value="D:\apache-maven-3.3.1-bin\apache-maven-3.3.1\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="D:\jdk1.8\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install -Dskiptests"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="skiptests" value="true"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_51"/>
+    <property name="java.ext.dirs" value="D:\jdk1.8\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\jdk1.8\jre\lib\resources.jar;D:\jdk1.8\jre\lib\rt.jar;D:\jdk1.8\jre\lib\sunrsasign.jar;D:\jdk1.8\jre\lib\jsse.jar;D:\jdk1.8\jre\lib\jce.jar;D:\jdk1.8\jre\lib\charsets.jar;D:\jdk1.8\jre\lib\jfr.jar;D:\jdk1.8\jre\classes"/>
+    <property name="sun.stderr.encoding" value="ms936"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\apache-maven-3.3.1-bin\apache-maven-3.3.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="ms936"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase name="testHeapSegmentSpecifics[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testByteBufferOverflowUnderflow[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testLongAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.005"/>
+  <testcase name="testBulkBytePutExceptions[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testByteBufferOutOfBounds[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testBulkByteGetExceptions[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testByteBufferGet[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.035"/>
+  <testcase name="testByteBufferPut[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.033"/>
+  <testcase name="testOwner[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testBooleanAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.01"/>
+  <testcase name="testDataInputOutputStreamUnderflowOverflow[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testByteAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.011"/>
+  <testcase name="testSwapBytes[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.006"/>
+  <testcase name="testCharAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.023"/>
+  <testcase name="testDataInputOutput[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.023"/>
+  <testcase name="testShortAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.009"/>
+  <testcase name="testCheckAgainstOverflowUnderflowOnRelease[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testSizeAndFreeing[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testIntAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.005"/>
+  <testcase name="testBulkByteAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.312"/>
+  <testcase name="testByteBufferWrapping[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.002"/>
+  <testcase name="testDataInputOutputOutOfBounds[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testCompareBytes[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.004"/>
+  <testcase name="testFloatAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.014"/>
+  <testcase name="testDoubleAccess[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testSlicedByteBufferGet[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.033"/>
+  <testcase name="testSlicedByteBufferPut[segment-size = 32,768]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.033"/>
+  <testcase name="testHeapSegmentSpecifics[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testByteBufferOverflowUnderflow[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testLongAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testBulkBytePutExceptions[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testByteBufferOutOfBounds[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testBulkByteGetExceptions[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testByteBufferGet[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.004"/>
+  <testcase name="testByteBufferPut[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.004"/>
+  <testcase name="testOwner[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testBooleanAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.003"/>
+  <testcase name="testDataInputOutputStreamUnderflowOverflow[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testByteAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.002"/>
+  <testcase name="testSwapBytes[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testCharAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.002"/>
+  <testcase name="testDataInputOutput[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.004"/>
+  <testcase name="testShortAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.002"/>
+  <testcase name="testCheckAgainstOverflowUnderflowOnRelease[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testSizeAndFreeing[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testIntAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testBulkByteAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.041"/>
+  <testcase name="testByteBufferWrapping[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testDataInputOutputOutOfBounds[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testCompareBytes[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testFloatAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testDoubleAccess[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.001"/>
+  <testcase name="testSlicedByteBufferGet[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.007"/>
+  <testcase name="testSlicedByteBufferPut[segment-size = 4,096]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.004"/>
+  <testcase name="testHeapSegmentSpecifics[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testByteBufferOverflowUnderflow[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testLongAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.017"/>
+  <testcase name="testBulkBytePutExceptions[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.002"/>
+  <testcase name="testByteBufferOutOfBounds[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.002"/>
+  <testcase name="testBulkByteGetExceptions[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testByteBufferGet[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.376"/>
+  <testcase name="testByteBufferPut[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.321"/>
+  <testcase name="testOwner[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testBooleanAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.032"/>
+  <testcase name="testDataInputOutputStreamUnderflowOverflow[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.002"/>
+  <testcase name="testByteAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.031"/>
+  <testcase name="testSwapBytes[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.016"/>
+  <testcase name="testCharAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.022"/>
+  <testcase name="testDataInputOutput[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.308"/>
+  <testcase name="testShortAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.02"/>
+  <testcase name="testCheckAgainstOverflowUnderflowOnRelease[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testSizeAndFreeing[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testIntAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.013"/>
+  <testcase name="testBulkByteAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="2.894"/>
+  <testcase name="testByteBufferWrapping[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testDataInputOutputOutOfBounds[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0"/>
+  <testcase name="testCompareBytes[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.004"/>
+  <testcase name="testFloatAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.008"/>
+  <testcase name="testDoubleAccess[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.011"/>
+  <testcase name="testSlicedByteBufferGet[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.818"/>
+  <testcase name="testSlicedByteBufferPut[segment-size = 524,288]" classname="org.apache.flink.core.memory.HeapMemorySegmentTest" time="0.903"/>
+</testsuite>

@@ -1,0 +1,12 @@
+org\apache\flink\streaming\connectors\rabbitmq\common\RMQSinkTest.class
+org\apache\flink\streaming\connectors\rabbitmq\common\RMQSinkTest$DummySerializationSchema.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest$DummySourceContext.class
+org\apache\flink\streaming\connectors\rabbitmq\common\RMQConnectionConfigTest.class
+org\apache\flink\streaming\connectors\rabbitmq\common\RMQSinkTest$1.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest$ConstructorTestClass.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest$RMQTestSource.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest$StringDeserializationScheme.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest$1.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest$RMQTestSource$2.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSourceTest$RMQTestSource$1.class

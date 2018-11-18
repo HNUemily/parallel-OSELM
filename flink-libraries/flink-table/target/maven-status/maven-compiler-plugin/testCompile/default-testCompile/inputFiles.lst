@@ -1,0 +1,17 @@
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\PojoGroupingITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\TableSourceITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\GroupedAggregationsITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\sql\SqlITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\StringExpressionsITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\ExpressionsITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\SelectITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\AggregationsITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\FromDataSetITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\TableEnvironmentITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\stream\utils\StreamTestData.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\ExplainTest.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\stream\sql\SqlITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\FilterITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\JoinITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\CastingITCase.java
+E:\flink\flink-1.1.4\flink-libraries\flink-table\src\test\java\org\apache\flink\api\java\batch\table\DistinctITCase.java

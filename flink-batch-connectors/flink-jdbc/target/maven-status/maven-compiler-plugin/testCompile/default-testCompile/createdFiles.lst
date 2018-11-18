@@ -1,0 +1,5 @@
+org\apache\flink\api\java\io\jdbc\JDBCOutputFormatTest.class
+org\apache\flink\api\java\io\jdbc\JDBCInputFormatTest.class
+org\apache\flink\api\java\io\jdbc\JDBCTestBase$1.class
+org\apache\flink\api\java\io\jdbc\JDBCFullTest.class
+org\apache\flink\api\java\io\jdbc\JDBCTestBase.class

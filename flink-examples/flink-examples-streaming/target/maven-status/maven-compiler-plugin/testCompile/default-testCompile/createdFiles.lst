@@ -1,0 +1,16 @@
+org\apache\flink\streaming\test\exampleJavaPrograms\iteration\IterateExampleITCase.class
+org\apache\flink\streaming\test\exampleJavaPrograms\windowing\WindowWordCountITCase.class
+org\apache\flink\streaming\test\socket\SocketWindowWordCountITCase$ServerThread.class
+org\apache\flink\streaming\test\exampleJavaPrograms\wordcount\WordCountITCase.class
+org\apache\flink\streaming\test\exampleJavaPrograms\windowing\TopSpeedWindowingExampleITCase.class
+org\apache\flink\streaming\test\exampleJavaPrograms\join\WindowJoinData.class
+org\apache\flink\streaming\test\socket\SocketWindowWordCountITCase$NullStream.class
+org\apache\flink\streaming\test\exampleJavaPrograms\join\WindowJoinITCase.class
+org\apache\flink\streaming\test\socket\SocketWindowWordCountITCase$1.class
+org\apache\flink\streaming\test\exampleJavaPrograms\wordcount\PojoExampleITCase.class
+org\apache\flink\streaming\test\exampleScalaPrograms\windowing\TopSpeedWindowingExampleITCase.class
+org\apache\flink\streaming\test\socket\SocketWindowWordCountITCase.class
+org\apache\flink\streaming\test\exampleJavaPrograms\windowing\SessionWindowingITCase.class
+org\apache\flink\streaming\test\exampleJavaPrograms\twitter\TwitterStreamITCase.class
+org\apache\flink\streaming\test\exampleJavaPrograms\join\WindowJoinITCase$Parser.class
+org\apache\flink\streaming\test\exampleJavaPrograms\ml\IncrementalLearningSkeletonITCase.class

@@ -1,0 +1,5 @@
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\wrapper\HadoopTupleUnwrappingIterator.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\HadoopReduceFunction.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\wrapper\HadoopOutputCollector.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\HadoopReduceCombineFunction.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\HadoopMapFunction.java

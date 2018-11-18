@@ -1,0 +1,11 @@
+org\apache\flink\api\table\explain\PlanJsonParser.class
+org\apache\flink\api\table\explain\LocalProperty.class
+org\apache\flink\api\table\explain\Estimates.class
+org\apache\flink\api\table\explain\Costs.class
+org\apache\flink\api\table\explain\Predecessors.class
+org\apache\flink\examples\java\JavaTableExample.class
+org\apache\flink\api\table\explain\PlanTree.class
+org\apache\flink\api\table\explain\Compiler_hints.class
+org\apache\flink\api\table\explain\Global_properties.class
+org\apache\flink\examples\java\JavaTableExample$WC.class
+org\apache\flink\api\table\explain\Node.class

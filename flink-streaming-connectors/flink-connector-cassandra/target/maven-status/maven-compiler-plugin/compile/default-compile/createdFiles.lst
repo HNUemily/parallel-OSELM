@@ -1,0 +1,17 @@
+org\apache\flink\streaming\connectors\cassandra\CassandraSinkBase$1.class
+org\apache\flink\streaming\connectors\cassandra\ClusterBuilder.class
+org\apache\flink\batch\connectors\cassandra\CassandraOutputFormat$1.class
+org\apache\flink\streaming\connectors\cassandra\CassandraTupleSink.class
+org\apache\flink\streaming\connectors\cassandra\CassandraSink.class
+org\apache\flink\batch\connectors\cassandra\CassandraOutputFormat.class
+org\apache\flink\streaming\connectors\cassandra\CassandraTupleWriteAheadSink$1.class
+org\apache\flink\streaming\connectors\cassandra\CassandraSink$CassandraPojoSinkBuilder.class
+org\apache\flink\streaming\connectors\cassandra\CassandraSinkBase.class
+org\apache\flink\streaming\connectors\cassandra\CassandraSink$CassandraSinkBuilder.class
+org\apache\flink\streaming\connectors\cassandra\CassandraTupleWriteAheadSink.class
+org\apache\flink\streaming\connectors\cassandra\CassandraSink$CassandraSinkBuilder$1.class
+org\apache\flink\streaming\connectors\cassandra\CassandraPojoSink.class
+org\apache\flink\streaming\connectors\cassandra\CassandraCommitter.class
+org\apache\flink\streaming\connectors\cassandra\CassandraSink$CassandraTupleSinkBuilder.class
+org\apache\flink\streaming\connectors\cassandra\CassandraSink$1.class
+org\apache\flink\batch\connectors\cassandra\CassandraInputFormat.class

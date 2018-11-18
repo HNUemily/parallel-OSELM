@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hbase\src\main\java\org\apache\flink\addons\hbase\TableInputFormat.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hbase\src\main\java\org\apache\flink\addons\hbase\TableInputSplit.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hbase\src\test\resources\log4j.properties">
+</file>
+</checkstyle>

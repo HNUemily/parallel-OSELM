@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-nifi\src\main\java\org\apache\flink\streaming\connectors\nifi\NiFiDataPacket.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-nifi\src\main\java\org\apache\flink\streaming\connectors\nifi\NiFiDataPacketBuilder.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-nifi\src\main\java\org\apache\flink\streaming\connectors\nifi\NiFiSink.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-nifi\src\main\java\org\apache\flink\streaming\connectors\nifi\NiFiSource.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-nifi\src\main\java\org\apache\flink\streaming\connectors\nifi\StandardNiFiDataPacket.java">
+</file>
+</checkstyle>

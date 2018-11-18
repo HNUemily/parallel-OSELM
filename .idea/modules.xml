@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-annotations/flink-annotations.iml" filepath="$PROJECT_DIR$/flink-annotations/flink-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-batch-connectors/flink-avro/flink-avro_2.10.iml" filepath="$PROJECT_DIR$/flink-batch-connectors/flink-avro/flink-avro_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-batch-connectors/flink-batch-connectors.iml" filepath="$PROJECT_DIR$/flink-batch-connectors/flink-batch-connectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-cep-scala/flink-cep-scala_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-cep-scala/flink-cep-scala_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-cep/flink-cep_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-cep/flink-cep_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-clients/flink-clients_2.10.iml" filepath="$PROJECT_DIR$/flink-clients/flink-clients_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-cassandra/flink-connector-cassandra_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-cassandra/flink-connector-cassandra_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-elasticsearch2/flink-connector-elasticsearch2_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-elasticsearch2/flink-connector-elasticsearch2_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-elasticsearch/flink-connector-elasticsearch_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-elasticsearch/flink-connector-elasticsearch_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-filesystem/flink-connector-filesystem_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-filesystem/flink-connector-filesystem_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-flume/flink-connector-flume_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-flume/flink-connector-flume_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-kafka-0.8/flink-connector-kafka-0.8_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-kafka-0.8/flink-connector-kafka-0.8_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-kafka-0.9/flink-connector-kafka-0.9_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-kafka-0.9/flink-connector-kafka-0.9_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-kafka-base/flink-connector-kafka-base_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-kafka-base/flink-connector-kafka-base_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-nifi/flink-connector-nifi_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-nifi/flink-connector-nifi_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-rabbitmq/flink-connector-rabbitmq_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-rabbitmq/flink-connector-rabbitmq_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-redis/flink-connector-redis_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-redis/flink-connector-redis_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-connector-twitter/flink-connector-twitter_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-connector-twitter/flink-connector-twitter_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-connector-wikiedits/flink-connector-wikiedits_2.10.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-connector-wikiedits/flink-connector-wikiedits_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-contrib.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-contrib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-core/flink-core.iml" filepath="$PROJECT_DIR$/flink-core/flink-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-dist/flink-dist_2.10.iml" filepath="$PROJECT_DIR$/flink-dist/flink-dist_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-examples/flink-examples-batch/flink-examples-batch_2.10.iml" filepath="$PROJECT_DIR$/flink-examples/flink-examples-batch/flink-examples-batch_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-examples/flink-examples-streaming/flink-examples-streaming_2.10.iml" filepath="$PROJECT_DIR$/flink-examples/flink-examples-streaming/flink-examples-streaming_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-examples/flink-examples_2.10.iml" filepath="$PROJECT_DIR$/flink-examples/flink-examples_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-fs-tests/flink-fs-tests_2.10.iml" filepath="$PROJECT_DIR$/flink-fs-tests/flink-fs-tests_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-gelly-examples/flink-gelly-examples_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-gelly-examples/flink-gelly-examples_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-gelly-scala/flink-gelly-scala_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-gelly-scala/flink-gelly-scala_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-gelly/flink-gelly_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-gelly/flink-gelly_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-batch-connectors/flink-hadoop-compatibility/flink-hadoop-compatibility_2.10.iml" filepath="$PROJECT_DIR$/flink-batch-connectors/flink-hadoop-compatibility/flink-hadoop-compatibility_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-batch-connectors/flink-hbase/flink-hbase_2.10.iml" filepath="$PROJECT_DIR$/flink-batch-connectors/flink-hbase/flink-hbase_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-batch-connectors/flink-hcatalog/flink-hcatalog.iml" filepath="$PROJECT_DIR$/flink-batch-connectors/flink-hcatalog/flink-hcatalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-java/flink-java.iml" filepath="$PROJECT_DIR$/flink-java/flink-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-java8/flink-java8_2.10.iml" filepath="$PROJECT_DIR$/flink-java8/flink-java8_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-batch-connectors/flink-jdbc/flink-jdbc.iml" filepath="$PROJECT_DIR$/flink-batch-connectors/flink-jdbc/flink-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-libraries.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-metrics/flink-metrics.iml" filepath="$PROJECT_DIR$/flink-metrics/flink-metrics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-metrics/flink-metrics-core/flink-metrics-core.iml" filepath="$PROJECT_DIR$/flink-metrics/flink-metrics-core/flink-metrics-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-metrics/flink-metrics-dropwizard/flink-metrics-dropwizard.iml" filepath="$PROJECT_DIR$/flink-metrics/flink-metrics-dropwizard/flink-metrics-dropwizard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-metrics/flink-metrics-ganglia/flink-metrics-ganglia.iml" filepath="$PROJECT_DIR$/flink-metrics/flink-metrics-ganglia/flink-metrics-ganglia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-metrics/flink-metrics-graphite/flink-metrics-graphite.iml" filepath="$PROJECT_DIR$/flink-metrics/flink-metrics-graphite/flink-metrics-graphite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-metrics/flink-metrics-jmx/flink-metrics-jmx.iml" filepath="$PROJECT_DIR$/flink-metrics/flink-metrics-jmx/flink-metrics-jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-metrics/flink-metrics-statsd/flink-metrics-statsd.iml" filepath="$PROJECT_DIR$/flink-metrics/flink-metrics-statsd/flink-metrics-statsd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-ml/flink-ml_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-ml/flink-ml_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-operator-stats/flink-operator-stats_2.10.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-operator-stats/flink-operator-stats_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-optimizer/flink-optimizer_2.10.iml" filepath="$PROJECT_DIR$/flink-optimizer/flink-optimizer_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-parent.iml" filepath="$PROJECT_DIR$/flink-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-python/flink-python_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-python/flink-python_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-quickstart/flink-quickstart.iml" filepath="$PROJECT_DIR$/flink-quickstart/flink-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-quickstart/flink-quickstart-java/flink-quickstart-java.iml" filepath="$PROJECT_DIR$/flink-quickstart/flink-quickstart-java/flink-quickstart-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-quickstart/flink-quickstart-scala/flink-quickstart-scala.iml" filepath="$PROJECT_DIR$/flink-quickstart/flink-quickstart-scala/flink-quickstart-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-runtime-web/flink-runtime-web_2.10.iml" filepath="$PROJECT_DIR$/flink-runtime-web/flink-runtime-web_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-runtime/flink-runtime_2.10.iml" filepath="$PROJECT_DIR$/flink-runtime/flink-runtime_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-scala-shell/flink-scala-shell_2.10.iml" filepath="$PROJECT_DIR$/flink-scala-shell/flink-scala-shell_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-scala/flink-scala_2.10.iml" filepath="$PROJECT_DIR$/flink-scala/flink-scala_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-shaded-curator/flink-shaded-curator.iml" filepath="$PROJECT_DIR$/flink-shaded-curator/flink-shaded-curator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-shaded-curator/flink-shaded-curator-recipes/flink-shaded-curator-recipes.iml" filepath="$PROJECT_DIR$/flink-shaded-curator/flink-shaded-curator-recipes/flink-shaded-curator-recipes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-shaded-curator/flink-shaded-curator-test/flink-shaded-curator-test.iml" filepath="$PROJECT_DIR$/flink-shaded-curator/flink-shaded-curator-test/flink-shaded-curator-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-shaded-hadoop/flink-shaded-hadoop.iml" filepath="$PROJECT_DIR$/flink-shaded-hadoop/flink-shaded-hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-shaded-hadoop/flink-shaded-include-yarn-tests/flink-shaded-include-yarn-tests.iml" filepath="$PROJECT_DIR$/flink-shaded-hadoop/flink-shaded-include-yarn-tests/flink-shaded-include-yarn-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-statebackend-rocksdb/flink-statebackend-rocksdb_2.10.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-statebackend-rocksdb/flink-statebackend-rocksdb_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-storm-examples/flink-storm-examples_2.10.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-storm-examples/flink-storm-examples_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-storm/flink-storm_2.10.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-storm/flink-storm_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-connectors/flink-streaming-connectors.iml" filepath="$PROJECT_DIR$/flink-streaming-connectors/flink-streaming-connectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-streaming-contrib/flink-streaming-contrib_2.10.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-streaming-contrib/flink-streaming-contrib_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-java/flink-streaming-java_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-java/flink-streaming-java_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-streaming-scala/flink-streaming-scala_2.10.iml" filepath="$PROJECT_DIR$/flink-streaming-scala/flink-streaming-scala_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-libraries/flink-table/flink-table_2.10.iml" filepath="$PROJECT_DIR$/flink-libraries/flink-table/flink-table_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-test-utils-parent/flink-test-utils-junit/flink-test-utils-junit.iml" filepath="$PROJECT_DIR$/flink-test-utils-parent/flink-test-utils-junit/flink-test-utils-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-test-utils-parent/flink-test-utils-parent.iml" filepath="$PROJECT_DIR$/flink-test-utils-parent/flink-test-utils-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-test-utils-parent/flink-test-utils/flink-test-utils_2.10.iml" filepath="$PROJECT_DIR$/flink-test-utils-parent/flink-test-utils/flink-test-utils_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-tests/flink-tests_2.10.iml" filepath="$PROJECT_DIR$/flink-tests/flink-tests_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-contrib/flink-tweet-inputformat/flink-tweet-inputformat_2.10.iml" filepath="$PROJECT_DIR$/flink-contrib/flink-tweet-inputformat/flink-tweet-inputformat_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-yarn/flink-yarn_2.10.iml" filepath="$PROJECT_DIR$/flink-yarn/flink-yarn_2.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/force-shading/force-shading.iml" filepath="$PROJECT_DIR$/tools/force-shading/force-shading.iml" />
+    </modules>
+  </component>
+</project>

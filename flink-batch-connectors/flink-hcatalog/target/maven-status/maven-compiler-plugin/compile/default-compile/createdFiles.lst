@@ -1,0 +1,4 @@
+org\apache\flink\hcatalog\java\HCatInputFormat.class
+org\apache\flink\hcatalog\HCatInputFormatBase.class
+org\apache\flink\hcatalog\java\HCatInputFormat$1.class
+org\apache\flink\hcatalog\HCatInputFormatBase$1.class

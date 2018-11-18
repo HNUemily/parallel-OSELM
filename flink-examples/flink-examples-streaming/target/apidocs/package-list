@@ -1,0 +1,13 @@
+org.apache.flink.streaming.examples.iteration
+org.apache.flink.streaming.examples.iteration.util
+org.apache.flink.streaming.examples.join
+org.apache.flink.streaming.examples.kafka
+org.apache.flink.streaming.examples.ml
+org.apache.flink.streaming.examples.ml.util
+org.apache.flink.streaming.examples.socket
+org.apache.flink.streaming.examples.twitter
+org.apache.flink.streaming.examples.twitter.util
+org.apache.flink.streaming.examples.utils
+org.apache.flink.streaming.examples.windowing
+org.apache.flink.streaming.examples.windowing.util
+org.apache.flink.streaming.examples.wordcount

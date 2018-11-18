@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\HadoopMapFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\HadoopReduceCombineFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\HadoopReduceFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\wrapper\HadoopOutputCollector.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\main\java\org\apache\flink\hadoopcompatibility\mapred\wrapper\HadoopTupleUnwrappingIterator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

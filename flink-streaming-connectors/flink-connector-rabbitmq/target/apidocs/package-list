@@ -1,0 +1,2 @@
+org.apache.flink.streaming.connectors.rabbitmq
+org.apache.flink.streaming.connectors.rabbitmq.common

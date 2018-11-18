@@ -1,0 +1,3 @@
+org\apache\flink\annotation\Public.class
+org\apache\flink\annotation\Internal.class
+org\apache\flink\annotation\PublicEvolving.class

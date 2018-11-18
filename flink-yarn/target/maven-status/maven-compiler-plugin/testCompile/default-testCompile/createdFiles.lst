@@ -1,0 +1,10 @@
+org\apache\flink\yarn\messages\NotifyWhenResourcesRegistered.class
+org\apache\flink\yarn\TestingYarnFlinkResourceManager.class
+org\apache\flink\yarn\messages\RequestNumberOfRegisteredResources.class
+org\apache\flink\yarn\TestingYarnFlinkResourceManager$1.class
+org\apache\flink\yarn\YarnFlinkResourceManagerTest$1$1.class
+org\apache\flink\yarn\YarnFlinkResourceManagerTest$1.class
+org\apache\flink\yarn\YarnFlinkResourceManagerTest$TestingContainer.class
+org\apache\flink\yarn\YarnFlinkResourceManagerTest$1$2.class
+org\apache\flink\yarn\YarnFlinkResourceManagerTest.class
+org\apache\flink\yarn\YarnClusterDescriptorTest.class

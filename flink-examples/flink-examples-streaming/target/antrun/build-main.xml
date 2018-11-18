@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/flink-examples-streaming_2.10-1.1.4-IncrementalLearning.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/IncrementalLearning.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/flink-examples-streaming_2.10-1.1.4-Iteration.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/Iteration.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/flink-examples-streaming_2.10-1.1.4-SessionWindowing.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/SessionWindowing.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/flink-examples-streaming_2.10-1.1.4-TopSpeedWindowing.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/TopSpeedWindowing.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/flink-examples-streaming_2.10-1.1.4-WindowJoin.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/WindowJoin.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/flink-examples-streaming_2.10-1.1.4-WordCount.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/WordCount.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/flink-examples-streaming_2.10-1.1.4-SocketWindowWordCount.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-streaming/target/SocketWindowWordCount.jar"/>
+</target>
+</project>

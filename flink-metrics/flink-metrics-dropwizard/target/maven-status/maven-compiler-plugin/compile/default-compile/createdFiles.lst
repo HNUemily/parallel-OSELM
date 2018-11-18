@@ -1,0 +1,7 @@
+org\apache\flink\dropwizard\ScheduledDropwizardReporter.class
+org\apache\flink\dropwizard\metrics\FlinkHistogramWrapper.class
+org\apache\flink\dropwizard\metrics\FlinkGaugeWrapper.class
+org\apache\flink\dropwizard\metrics\DropwizardHistogramStatistics.class
+org\apache\flink\dropwizard\metrics\DropwizardHistogramWrapper.class
+org\apache\flink\dropwizard\metrics\FlinkCounterWrapper.class
+org\apache\flink\dropwizard\metrics\HistogramStatisticsWrapper.class

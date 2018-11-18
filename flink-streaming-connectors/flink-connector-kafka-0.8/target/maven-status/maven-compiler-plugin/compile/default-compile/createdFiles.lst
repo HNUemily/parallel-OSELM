@@ -1,0 +1,14 @@
+org\apache\flink\streaming\connectors\kafka\internals\KillerWatchDog.class
+org\apache\flink\streaming\connectors\kafka\internals\Kafka08Fetcher.class
+org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer.class
+org\apache\flink\streaming\connectors\kafka\internals\ZookeeperOffsetHandler.class
+org\apache\flink\streaming\connectors\kafka\internals\PeriodicOffsetCommitter.class
+org\apache\flink\streaming\connectors\kafka\internals\ClosableBlockingQueue.class
+org\apache\flink\streaming\connectors\kafka\Kafka08JsonTableSource.class
+org\apache\flink\streaming\connectors\kafka\internals\PartitionInfoFetcher.class
+org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer081.class
+org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer082.class
+org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer08.class
+org\apache\flink\streaming\connectors\kafka\Kafka08TableSource.class
+org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer08.class
+org\apache\flink\streaming\connectors\kafka\internals\SimpleConsumerThread.class

@@ -1,0 +1,5 @@
+org\apache\flink\hadoopcompatibility\mapred\HadoopMapFunction.class
+org\apache\flink\hadoopcompatibility\mapred\HadoopReduceFunction.class
+org\apache\flink\hadoopcompatibility\mapred\HadoopReduceCombineFunction.class
+org\apache\flink\hadoopcompatibility\mapred\wrapper\HadoopTupleUnwrappingIterator.class
+org\apache\flink\hadoopcompatibility\mapred\wrapper\HadoopOutputCollector.class

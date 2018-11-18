@@ -1,0 +1,2 @@
+org.apache.flink.hadoopcompatibility.mapred
+org.apache.flink.hadoopcompatibility.mapred.wrapper

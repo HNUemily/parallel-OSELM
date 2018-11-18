@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer08.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer081.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer082.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer08.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\ClosableBlockingQueue.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\Kafka08Fetcher.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\KillerWatchDog.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\PartitionInfoFetcher.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\PeriodicOffsetCommitter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\SimpleConsumerThread.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\ZookeeperOffsetHandler.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka08JsonTableSource.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka08TableSource.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

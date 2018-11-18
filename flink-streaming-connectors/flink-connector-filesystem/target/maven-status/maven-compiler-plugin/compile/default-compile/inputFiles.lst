@@ -1,0 +1,11 @@
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\SequenceFileWriter.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\AvroKeyValueSinkWriter.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\Bucketer.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\DateTimeBucketer.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\Clock.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\SystemClock.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\StringWriter.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\StreamWriterBase.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\Writer.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\NonRollingBucketer.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\RollingSink.java

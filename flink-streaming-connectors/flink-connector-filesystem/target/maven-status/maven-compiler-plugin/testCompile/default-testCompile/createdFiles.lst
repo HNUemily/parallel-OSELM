@@ -1,0 +1,15 @@
+org\apache\flink\streaming\connectors\fs\RollingSinkFaultTolerance2ITCase$StringGeneratingSourceFunction.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$TestSourceFunction.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$WaitingTestSourceFunction.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$ModifyableClock.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$3.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$OddEvenFilter.class
+org\apache\flink\streaming\connectors\fs\RollingSinkFaultToleranceITCase$StringGeneratingSourceFunction.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$4.class
+org\apache\flink\streaming\connectors\fs\RollingSinkFaultTolerance2ITCase$OnceFailingIdentityMapper.class
+org\apache\flink\streaming\connectors\fs\RollingSinkFaultTolerance2ITCase.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$1.class
+org\apache\flink\streaming\connectors\fs\RollingSinkFaultToleranceITCase$OnceFailingIdentityMapper.class
+org\apache\flink\streaming\connectors\fs\RollingSinkFaultToleranceITCase.class
+org\apache\flink\streaming\connectors\fs\RollingSinkITCase$2.class

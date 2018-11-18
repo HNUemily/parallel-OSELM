@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.flink.api.java.typeutils.runtime.kryo.KryoWithCustomSerializersTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.62 sec - in org.apache.flink.api.java.typeutils.runtime.kryo.KryoWithCustomSerializersTest

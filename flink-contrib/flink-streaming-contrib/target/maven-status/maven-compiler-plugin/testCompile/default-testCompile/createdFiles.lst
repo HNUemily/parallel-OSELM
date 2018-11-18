@@ -1,0 +1,4 @@
+org\apache\flink\contrib\streaming\CollectITCase.class
+org\apache\flink\contrib\streaming\SocketStreamIteratorTest$1.class
+org\apache\flink\contrib\streaming\SocketStreamIteratorTest.class
+org\apache\flink\contrib\streaming\SocketStreamIteratorTest$2.class

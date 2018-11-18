@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-operator-stats\src\main\java\org\apache\flink\contrib\operatorstatistics\heavyhitters\CountMinHeavyHitter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-operator-stats\src\main\java\org\apache\flink\contrib\operatorstatistics\heavyhitters\HeavyHitter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-operator-stats\src\main\java\org\apache\flink\contrib\operatorstatistics\heavyhitters\HeavyHitterMergeException.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-operator-stats\src\main\java\org\apache\flink\contrib\operatorstatistics\heavyhitters\LossyCounting.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-operator-stats\src\main\java\org\apache\flink\contrib\operatorstatistics\OperatorStatistics.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-operator-stats\src\main\java\org\apache\flink\contrib\operatorstatistics\OperatorStatisticsAccumulator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-operator-stats\src\main\java\org\apache\flink\contrib\operatorstatistics\OperatorStatisticsConfig.java">
+</file>
+</checkstyle>

@@ -1,0 +1,9 @@
+org\apache\flink\metrics\jmx\JMXReporterTest$4.class
+org\apache\flink\metrics\jmx\JMXReporterTest.class
+org\apache\flink\metrics\jmx\JMXReporterTest$3.class
+org\apache\flink\runtime\jobmanager\JMXJobManagerMetricTest.class
+org\apache\flink\metrics\jmx\JMXReporterTest$2.class
+org\apache\flink\metrics\jmx\JMXReporterTest$TestingHistogram$1.class
+org\apache\flink\metrics\jmx\JMXReporterTest$TestingHistogram.class
+org\apache\flink\runtime\jobmanager\JMXJobManagerMetricTest$BlockingInvokable.class
+org\apache\flink\metrics\jmx\JMXReporterTest$1.class

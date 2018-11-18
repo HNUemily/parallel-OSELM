@@ -1,0 +1,7 @@
+org\apache\flink\streaming\connectors\kafka\internal\Kafka09Fetcher$1.class
+org\apache\flink\streaming\connectors\kafka\Kafka09TableSource.class
+org\apache\flink\streaming\connectors\kafka\internal\Kafka09Fetcher.class
+org\apache\flink\streaming\connectors\kafka\Kafka09JsonTableSource.class
+org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer09.class
+org\apache\flink\streaming\connectors\kafka\internal\Kafka09Fetcher$CommitCallback.class
+org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer09.class

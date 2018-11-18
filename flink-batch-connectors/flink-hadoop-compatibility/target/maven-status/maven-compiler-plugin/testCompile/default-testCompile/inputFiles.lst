@@ -1,0 +1,9 @@
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapred\HadoopReduceCombineFunctionITCase.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapred\HadoopReduceFunctionITCase.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapred\HadoopMapFunctionITCase.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapreduce\example\WordCount.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapreduce\HadoopInputOutputITCase.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapred\wrapper\HadoopTupleUnwrappingIteratorTest.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapred\HadoopTestData.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapred\HadoopMapredITCase.java
+E:\flink\flink-1.1.4\flink-batch-connectors\flink-hadoop-compatibility\src\test\java\org\apache\flink\test\hadoopcompatibility\mapred\example\HadoopMapredCompatWordCount.java

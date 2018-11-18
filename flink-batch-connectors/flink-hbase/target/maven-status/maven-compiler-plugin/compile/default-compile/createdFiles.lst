@@ -1,0 +1,2 @@
+org\apache\flink\addons\hbase\TableInputSplit.class
+org\apache\flink\addons\hbase\TableInputFormat.class

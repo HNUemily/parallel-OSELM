@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\AbstractYarnClusterDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\cli\FlinkYarnSessionCli.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\messages\ContainersAllocated.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\messages\ContainersComplete.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\RegisteredYarnWorkerNode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\Utils.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnApplicationMasterRunner.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnClusterClient.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnClusterDescriptor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnConfigKeys.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnContainerInLaunch.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnFlinkResourceManager.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnResourceManagerCallbackHandler.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\java\org\apache\flink\yarn\YarnTaskManagerRunner.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\main\resources\log4j.properties">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-yarn\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,5 @@
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer09.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer09.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\internal\Kafka09Fetcher.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka09JsonTableSource.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka09TableSource.java

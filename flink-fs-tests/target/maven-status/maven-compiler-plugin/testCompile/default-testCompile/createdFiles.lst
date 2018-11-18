@@ -1,0 +1,16 @@
+org\apache\flink\hdfstests\ContinuousFileMonitoringTest$FileCreator.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringTest$2.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringFunctionITCase$TestingSinkFunction$1.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringTest$PathFilter.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringFunctionITCase$FileCreator.class
+org\apache\flink\hdfstests\FileStateBackendTest.class
+org\apache\flink\hdfstests\HDFSTest$DopOneTestEnvironment$1.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringTest.class
+org\apache\flink\hdfstests\HDFSTest$DopOneTestEnvironment.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringFunctionITCase$1.class
+org\apache\flink\hdfstests\HDFSTest.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringTest$TestingSourceContext.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringTest$1.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringFunctionITCase.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringFunctionITCase$SuccessException.class
+org\apache\flink\hdfstests\ContinuousFileMonitoringFunctionITCase$TestingSinkFunction.class

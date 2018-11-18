@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-streaming-contrib\src\main\java\org\apache\flink\contrib\streaming\CollectSink.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-streaming-contrib\src\main\java\org\apache\flink\contrib\streaming\DataStreamUtils.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-streaming-contrib\src\main\java\org\apache\flink\contrib\streaming\SocketStreamIterator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-streaming-contrib\src\test\resources\log4j-test.properties">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-contrib\flink-streaming-contrib\src\test\resources\log4j.properties">
+</file>
+</checkstyle>

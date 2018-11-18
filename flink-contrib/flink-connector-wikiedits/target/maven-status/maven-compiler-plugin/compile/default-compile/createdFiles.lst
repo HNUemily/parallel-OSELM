@@ -1,0 +1,4 @@
+org\apache\flink\streaming\connectors\wikiedits\WikipediaEditEventIrcStream.class
+org\apache\flink\streaming\connectors\wikiedits\WikipediaEditsSource.class
+org\apache\flink\streaming\connectors\wikiedits\WikipediaEditEventIrcStream$WikipediaIrcChannelListener.class
+org\apache\flink\streaming\connectors\wikiedits\WikipediaEditEvent.class

@@ -1,0 +1,10 @@
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\common\config\FlinkJedisConfigBaseTest.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\RedisITCaseBase.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\common\config\JedisClusterConfigTest.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\RedisSinkITCase.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\common\config\JedisSentinelConfigTest.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\common\config\JedisPoolConfigTest.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\RedisSinkPublishITCase.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\RedisSinkTest.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\common\mapper\RedisDataTypeDescriptionTest.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\test\java\org\apache\flink\streaming\connectors\redis\RedisSentinelClusterTest.java

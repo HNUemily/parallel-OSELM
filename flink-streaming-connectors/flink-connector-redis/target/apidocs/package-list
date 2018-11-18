@@ -1,0 +1,4 @@
+org.apache.flink.streaming.connectors.redis
+org.apache.flink.streaming.connectors.redis.common.config
+org.apache.flink.streaming.connectors.redis.common.container
+org.apache.flink.streaming.connectors.redis.common.mapper

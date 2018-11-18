@@ -1,0 +1,4 @@
+org\apache\flink\streaming\connectors\twitter\TwitterSource$1.class
+org\apache\flink\streaming\connectors\twitter\TwitterSource$SampleStatusesEndpoint.class
+org\apache\flink\streaming\connectors\twitter\TwitterSource$EndpointInitializer.class
+org\apache\flink\streaming\connectors\twitter\TwitterSource.class

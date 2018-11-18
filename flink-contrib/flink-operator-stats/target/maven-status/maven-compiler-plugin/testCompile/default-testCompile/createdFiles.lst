@@ -1,0 +1,4 @@
+org\apache\flink\contrib\operatorstatistics\heavyhitters\CountMinHeavyHitterTest.class
+org\apache\flink\contrib\operatorstatistics\OperatorStatsAccumulatorTest.class
+org\apache\flink\contrib\operatorstatistics\OperatorStatsAccumulatorTest$StringToInt.class
+org\apache\flink\contrib\operatorstatistics\heavyhitters\LossyCountingTest.class

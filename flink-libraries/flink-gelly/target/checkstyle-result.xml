@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\AbstractGraphAnalytic.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\DegreeAnnotationFunctions.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\directed\EdgeDegreesPair.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\directed\EdgeSourceDegrees.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\directed\EdgeTargetDegrees.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\directed\VertexDegrees.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\directed\VertexInDegree.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\directed\VertexOutDegree.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\package-info.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\undirected\EdgeDegreePair.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\undirected\EdgeSourceDegree.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\undirected\EdgeTargetDegree.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\annotate\undirected\VertexDegree.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\degree\filter\undirected\MaximumDegree.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\simple\directed\Simplify.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\simple\undirected\Simplify.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\LongValueAddOffset.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\LongValueToIntValue.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\LongValueToStringValue.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\RichTranslateFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\Translate.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\TranslateEdgeValues.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\TranslateFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\TranslateGraphIds.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\asm\translate\TranslateVertexValues.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\Edge.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\EdgeDirection.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\EdgeJoinFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\EdgeOrder.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\EdgesFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\EdgesFunctionWithVertexValue.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\AbstractGraphGenerator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\CompleteGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\CycleGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\EmptyGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\GraphGenerator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\GraphGeneratorUtils.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\GridGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\HypercubeGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\PathGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\random\AbstractGeneratorFactory.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\random\BlockInfo.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\random\JDKRandomGeneratorFactory.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\random\MersenneTwisterFactory.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\random\RandomGenerable.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\random\RandomGenerableFactory.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\RMatGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\SingletonEdgeGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\generator\StarGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\Graph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\GraphAlgorithm.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\GraphAnalytic.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\GraphCsvReader.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\gsa\ApplyFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\gsa\GatherFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\gsa\GatherSumApplyIteration.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\gsa\GSAConfiguration.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\gsa\Neighbor.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\gsa\SumFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\IterationConfiguration.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\directed\GlobalClusteringCoefficient.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\directed\LocalClusteringCoefficient.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\directed\TriangleCount.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\directed\TriangleListing.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\undirected\GlobalClusteringCoefficient.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\undirected\LocalClusteringCoefficient.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\undirected\TriangleCount.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\clustering\undirected\TriangleListing.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\CommunityDetection.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\ConnectedComponents.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\GSAConnectedComponents.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\GSAPageRank.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\GSASingleSourceShortestPaths.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\LabelPropagation.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\link_analysis\HITS.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\metric\ChecksumHashCode.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\metric\directed\VertexMetrics.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\metric\undirected\VertexMetrics.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\PageRank.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\similarity\AdamicAdar.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\similarity\JaccardIndex.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\SingleSourceShortestPaths.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\Summarization.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\library\TriangleEnumerator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\NeighborsFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\NeighborsFunctionWithVertexValue.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\pregel\ComputeFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\pregel\MessageCombiner.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\pregel\MessageIterator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\pregel\VertexCentricConfiguration.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\pregel\VertexCentricIteration.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\ReduceEdgesFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\ReduceNeighborsFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\spargel\GatherFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\spargel\MessageIterator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\spargel\ScatterFunction.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\spargel\ScatterGatherConfiguration.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\spargel\ScatterGatherIteration.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\Triplet.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\EdgeToTuple3Map.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\GraphUtils.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\Murmur3_32.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\NullValueEdgeMapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\proxy\Delegate.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\proxy\GraphAlgorithmDelegatingDataSet.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\proxy\GraphAlgorithmDelegatingGraph.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\proxy\OptionalBoolean.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\Tuple2ToVertexMap.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\Tuple3ToEdgeMap.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\utils\VertexToTuple2Map.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\validation\GraphValidator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\validation\InvalidVertexIdsValidator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\Vertex.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-libraries\flink-gelly\src\main\java\org\apache\flink\graph\VertexJoinFunction.java">
+</file>
+</checkstyle>

@@ -1,0 +1,5 @@
+org.apache.flink.contrib.tweetinputformat.io
+org.apache.flink.contrib.tweetinputformat.model.User
+org.apache.flink.contrib.tweetinputformat.model.places
+org.apache.flink.contrib.tweetinputformat.model.tweet
+org.apache.flink.contrib.tweetinputformat.model.tweet.entities

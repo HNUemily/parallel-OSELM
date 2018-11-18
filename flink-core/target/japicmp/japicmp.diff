@@ -1,0 +1,110 @@
+Comparing C:\Users\Administrator\.m2\repository\org\apache\flink\flink-core\1.0.0\flink-core-1.0.0.jar with E:\flink\flink-1.1.4\flink-core\target\flink-core-1.1.4.jar:
+***  MODIFIED CLASS: PUBLIC org.apache.flink.api.common.ExecutionConfig  (compatible)
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) int PARALLELISM_DEFAULT
+	+++  NEW METHOD: PUBLIC(+) long getTaskCancellationInterval()
+	+++  NEW METHOD: PUBLIC(+) org.apache.flink.api.common.ExecutionConfig setTaskCancellationInterval(long)
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.flink.api.common.io.BinaryInputFormat  (compatible)
+	+++  NEW INTERFACE: org.apache.flink.api.common.io.CheckpointableInputFormat
+	+++  NEW METHOD: PUBLIC(+) long getBlockSize()
+	+++  NEW METHOD: PUBLIC(+) void setBlockSize(long)
+***  MODIFIED CLASS: PUBLIC org.apache.flink.api.common.io.BinaryInputFormat$BlockBasedInput  (not serializable)
+	+++  NEW CONSTRUCTOR: PUBLIC(+) BinaryInputFormat$BlockBasedInput(org.apache.flink.api.common.io.BinaryInputFormat, org.apache.flink.core.fs.FSDataInputStream, int, long)
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.flink.api.common.io.DelimitedInputFormat  (compatible)
+	+++  NEW INTERFACE: org.apache.flink.api.common.io.CheckpointableInputFormat
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.flink.api.common.io.FileInputFormat  (compatible)
+	+++  NEW METHOD: PUBLIC(+) boolean getNestedFileEnumeration()
+	+++  NEW METHOD: PUBLIC(+) void setNestedFileEnumeration(boolean)
+***  MODIFIED CLASS: PUBLIC org.apache.flink.api.common.io.InputStreamFSInputWrapper  (not serializable)
+	+++  NEW METHOD: PUBLIC(+) void close()
+===  UNCHANGED CLASS: PUBLIC org.apache.flink.api.common.JobExecutionResult  (not serializable)
+	===  UNCHANGED METHOD: PUBLIC STATIC org.apache.flink.api.common.JobExecutionResult fromJobSubmissionResult(org.apache.flink.api.common.JobSubmissionResult)
+		+++  NEW ANNOTATION: java.lang.Deprecated
+***  MODIFIED CLASS: PUBLIC org.apache.flink.api.common.JobSubmissionResult  (not serializable)
+	+++  NEW METHOD: PUBLIC(+) org.apache.flink.api.common.JobExecutionResult getJobExecutionResult()
+	+++  NEW METHOD: PUBLIC(+) boolean isJobExecutionResult()
+***  MODIFIED CLASS: PUBLIC org.apache.flink.api.common.typeinfo.BasicTypeInfo  (compatible)
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) org.apache.flink.api.common.typeinfo.BasicTypeInfo BIG_DEC_TYPE_INFO
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) org.apache.flink.api.common.typeinfo.BasicTypeInfo BIG_INT_TYPE_INFO
+***  MODIFIED CLASS: PUBLIC FINAL org.apache.flink.configuration.ConfigConstants  (not serializable)
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL java.lang.String YARN_APPLICATION_MASTER_ENV_PREFIX
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL java.lang.String YARN_REALLOCATE_FAILED_CONTAINERS
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL java.lang.String YARN_TASK_MANAGER_ENV_PREFIX
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL java.lang.String YARN_HEAP_CUTOFF_RATIO
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL java.lang.String YARN_HEAP_CUTOFF_MIN
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL int DEFAULT_YARN_MIN_HEAP_CUTOFF
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	===  UNCHANGED FIELD: PUBLIC STATIC FINAL java.lang.String DEFAULT_YARN_APPLICATION_MASTER_PORT
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String NETWORK_REQUEST_BACKOFF_MAX_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String JOB_MANAGER_WEB_TMPDIR_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_SCOPE_NAMING_TASK
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String ZOOKEEPER_NAMESPACE_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) long DEFAULT_TASK_CANCELLATION_TIMEOUT_MILLIS
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String CONTAINERIZED_HEAP_CUTOFF_MIN
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_SCOPE_DELIMITER
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String LOCAL_NUMBER_RESOURCE_MANAGER
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_SCOPE_NAMING_OPERATOR
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String ENABLE_QUARANTINE_MONITOR
+		+++  NEW ANNOTATION: java.lang.Deprecated
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_SCOPE_NAMING_TM_JOB
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_SCOPE_NAMING_JM
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String DEFAULT_YARN_JOB_MANAGER_PORT
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String CONTAINERIZED_MASTER_ENV_PREFIX
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String TASK_MANAGER_REFUSED_REGISTRATION_PAUSE
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String CONTAINERIZED_HEAP_CUTOFF_RATIO
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String DEFAULT_TASK_MANAGER_MAX_REGISTRATION_PAUSE
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_REPORTERS_LIST
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) int DEFAULT_NETWORK_REQUEST_BACKOFF_MAX
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String TASK_MANAGER_INITIAL_REGISTRATION_PAUSE
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) boolean DEFAULT_USE_LARGE_RECORD_HANDLER
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String ENV_FLINK_CONF_DIR
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String USE_LARGE_RECORD_HANDLER_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String DEFAULT_ZOOKEEPER_NAMESPACE_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_SCOPE_NAMING_JM_JOB
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String NETWORK_REQUEST_BACKOFF_INITIAL_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) int DEFAULT_NETWORK_REQUEST_BACKOFF_INITIAL
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) int DEFAULT_LOCAL_NUMBER_RESOURCE_MANAGER
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String ENV_FLINK_LIB_DIR
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String RESOURCE_MANAGER_IPC_PORT_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) int DEFAULT_JOB_MANAGER_MAX_ATTEMPTS_HISTORY_SIZE
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) long DEFAULT_TASK_CANCELLATION_INTERVAL_MILLIS
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) int DEFAULT_RESOURCE_MANAGER_IPC_PORT
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_REPORTER_PREFIX
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String DEFAULT_TASK_MANAGER_REFUSED_REGISTRATION_PAUSE
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_REPORTER_CLASS_SUFFIX
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String TASK_MANAGER_LOG_PATH_KEY
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) int DEFAULT_YARN_HEAP_CUTOFF
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String CONTAINERIZED_TASK_MANAGER_ENV_PREFIX
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String DEFAULT_TASK_MANAGER_INITIAL_REGISTRATION_PAUSE
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_SCOPE_NAMING_TM
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String TASK_MANAGER_MAX_REGISTARTION_PAUSE
+	+++  NEW FIELD: PUBLIC(+) STATIC(+) FINAL(+) java.lang.String METRICS_REPORTER_INTERVAL_SUFFIX
+***  MODIFIED CLASS: PUBLIC org.apache.flink.configuration.Configuration  (compatible)
+	+++  NEW METHOD: PUBLIC(+) void addAllToProperties(java.util.Properties)
+***  MODIFIED CLASS: PUBLIC org.apache.flink.configuration.UnmodifiableConfiguration  (compatible)
+	+++  NEW METHOD: PUBLIC(+) void addAllToProperties(java.util.Properties)
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.flink.core.fs.FileSystem  (not serializable)
+	+++  NEW METHOD: PUBLIC(+) STATIC(+) boolean isFlinkSupportedScheme(java.lang.String)
+***  MODIFIED CLASS: PUBLIC org.apache.flink.types.DoubleValue  (compatible)
+	+++  NEW INTERFACE: java.lang.Comparable
+***  MODIFIED CLASS: PUBLIC org.apache.flink.types.FloatValue  (compatible)
+	+++  NEW INTERFACE: java.lang.Comparable
+***  MODIFIED INTERFACE: PUBLIC ABSTRACT org.apache.flink.types.NormalizableKey  (default serialVersionUID changed)
+	+++  NEW INTERFACE: java.lang.Comparable
++++  NEW CLASS: PUBLIC(+) org.apache.flink.util.LongValueSequenceIterator  (compatible)
+	+++  NEW SUPERCLASS: org.apache.flink.util.SplittableIterator
+	+++  NEW CONSTRUCTOR: PUBLIC(+) LongValueSequenceIterator(long, long)
+	+++  NEW METHOD: PUBLIC(+) long getCurrent()
+	+++  NEW METHOD: PUBLIC(+) int getMaximumNumberOfSplits()
+	+++  NEW METHOD: PUBLIC(+) long getTo()
+	+++  NEW METHOD: PUBLIC(+) boolean hasNext()
+	+++  NEW METHOD: PUBLIC(+) org.apache.flink.types.LongValue next()
+	+++  NEW METHOD: PUBLIC(+) SYNTHETIC(+) BRIDGE(+) java.lang.Object next()
+	+++  NEW METHOD: PUBLIC(+) void remove()
+	+++  NEW METHOD: PUBLIC(+) org.apache.flink.util.LongValueSequenceIterator[] split(int)
+	+++  NEW METHOD: PUBLIC(+) SYNTHETIC(+) BRIDGE(+) java.util.Iterator[] split(int)

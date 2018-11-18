@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="flink-gelly-scala_2.10,flink-scala-shell_2.10,flink-streaming-contrib_2.10,flink-streaming-scala_2.10,flink-gelly-examples_2.10,flink-scala_2.10">
+      <plugins>
+        <plugin path="C:\Users\Administrator\.m2\repository\org\scalamacros\paradise_2.10.4\2.0.1\paradise_2.10.4-2.0.1.jar" />
+      </plugins>
+    </profile>
+    <profile name="Maven 2" modules="flink-cep-scala_2.10,flink-runtime_2.10,flink-table_2.10,flink-examples-streaming_2.10,flink-hcatalog,flink-ml_2.10,flink-yarn_2.10,flink-test-utils_2.10,flink-examples-batch_2.10,flink-tests_2.10" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+Comparing C:\Users\Administrator\.m2\repository\org\apache\flink\flink-java\1.0.0\flink-java-1.0.0.jar with E:\flink\flink-1.1.4\flink-java\target\flink-java-1.1.4.jar:
+***  MODIFIED CLASS: PUBLIC ABSTRACT org.apache.flink.api.java.ExecutionEnvironment  (not serializable)
+	+++  NEW METHOD: PUBLIC(+) FINAL(+) org.apache.flink.api.java.operators.DataSource fromElements(java.lang.Class, java.lang.Object[])
+		+++  NEW ANNOTATION: java.lang.SafeVarargs
+***  MODIFIED CLASS: PUBLIC org.apache.flink.api.java.operators.PartitionOperator  (not serializable)
+	+++  NEW CONSTRUCTOR: PUBLIC(+) PartitionOperator(org.apache.flink.api.java.DataSet, org.apache.flink.api.common.operators.base.PartitionOperatorBase$PartitionMethod, org.apache.flink.api.common.operators.Keys, org.apache.flink.api.common.distributions.DataDistribution, java.lang.String)

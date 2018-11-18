@@ -1,0 +1,5 @@
+org\apache\flink\streaming\connectors\rabbitmq\common\RMQConnectionConfig$1.class
+org\apache\flink\streaming\connectors\rabbitmq\common\RMQConnectionConfig$Builder.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSink.class
+org\apache\flink\streaming\connectors\rabbitmq\common\RMQConnectionConfig.class
+org\apache\flink\streaming\connectors\rabbitmq\RMQSource.class

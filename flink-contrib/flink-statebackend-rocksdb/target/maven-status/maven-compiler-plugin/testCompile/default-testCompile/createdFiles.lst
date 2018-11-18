@@ -1,0 +1,12 @@
+org\apache\flink\contrib\streaming\state\FullyAsyncRocksDBStateBackendTest.class
+org\apache\flink\contrib\streaming\state\RocksDBStateBackendTest.class
+org\apache\flink\contrib\streaming\state\RocksDBAsyncKVSnapshotTest$4.class
+org\apache\flink\contrib\streaming\state\RocksDBAsyncKVSnapshotTest$1.class
+org\apache\flink\contrib\streaming\state\RocksDBStateBackendConfigTest$1.class
+org\apache\flink\contrib\streaming\state\RocksDBAsyncKVSnapshotTest$DummyMapFunction.class
+org\apache\flink\contrib\streaming\state\RocksDBStateBackendConfigTest$2.class
+org\apache\flink\contrib\streaming\state\RocksDBAsyncKVSnapshotTest$2.class
+org\apache\flink\contrib\streaming\state\RocksDBAsyncKVSnapshotTest$3.class
+org\apache\flink\contrib\streaming\state\RocksDBAsyncKVSnapshotTest$AsyncCheckpointOperator.class
+org\apache\flink\contrib\streaming\state\RocksDBAsyncKVSnapshotTest.class
+org\apache\flink\contrib\streaming\state\RocksDBStateBackendConfigTest.class

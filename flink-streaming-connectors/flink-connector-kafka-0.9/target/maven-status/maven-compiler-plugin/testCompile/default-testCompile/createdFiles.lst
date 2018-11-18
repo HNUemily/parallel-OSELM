@@ -1,0 +1,15 @@
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$1.class
+org\apache\flink\streaming\connectors\kafka\KafkaShortRetention09ITCase.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$7.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$8.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$2.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$6.class
+org\apache\flink\streaming\connectors\kafka\Kafka09ITCase.class
+org\apache\flink\streaming\connectors\kafka\Kafka09ProducerITCase.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$3.class
+org\apache\flink\streaming\connectors\kafka\KafkaProducerTest.class
+org\apache\flink\streaming\connectors\kafka\KafkaProducerTest$1.class
+org\apache\flink\streaming\connectors\kafka\KafkaTestEnvironmentImpl.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$4.class
+org\apache\flink\streaming\connectors\kafka\Kafka09FetcherTest$5.class

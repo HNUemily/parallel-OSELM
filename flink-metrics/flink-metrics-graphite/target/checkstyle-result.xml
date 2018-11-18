@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-metrics\flink-metrics-graphite\src\main\java\org\apache\flink\metrics\graphite\GraphiteReporter.java">
+</file>
+</checkstyle>

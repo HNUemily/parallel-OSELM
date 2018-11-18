@@ -1,0 +1,7 @@
+org\apache\flink\streaming\connectors\elasticsearch2\ElasticsearchSinkITCase.class
+org\apache\flink\streaming\connectors\elasticsearch2\examples\ElasticsearchExample$1.class
+org\apache\flink\streaming\connectors\elasticsearch2\ElasticsearchSinkITCase$1.class
+org\apache\flink\streaming\connectors\elasticsearch2\ElasticsearchSinkITCase$TestElasticsearchSinkFunction.class
+org\apache\flink\streaming\connectors\elasticsearch2\ElasticsearchSinkITCase$TestSourceFunction.class
+org\apache\flink\streaming\connectors\elasticsearch2\examples\ElasticsearchExample.class
+org\apache\flink\streaming\connectors\elasticsearch2\examples\ElasticsearchExample$2.class

@@ -1,0 +1,5 @@
+org\apache\flink\api\avro\DataInputDecoder.class
+org\apache\flink\api\avro\FSDataInputStreamWrapper.class
+org\apache\flink\api\java\io\AvroInputFormat.class
+org\apache\flink\api\avro\DataOutputEncoder.class
+org\apache\flink\api\java\io\AvroOutputFormat.class

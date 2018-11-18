@@ -1,0 +1,5 @@
+org\apache\flink\streaming\connectors\elasticsearch2\RequestIndexer.class
+org\apache\flink\streaming\connectors\elasticsearch2\ElasticsearchSinkFunction.class
+org\apache\flink\streaming\connectors\elasticsearch2\ElasticsearchSink$1.class
+org\apache\flink\streaming\connectors\elasticsearch2\BulkProcessorIndexer.class
+org\apache\flink\streaming\connectors\elasticsearch2\ElasticsearchSink.class

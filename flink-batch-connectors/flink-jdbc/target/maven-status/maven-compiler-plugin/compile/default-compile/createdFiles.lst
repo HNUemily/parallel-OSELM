@@ -1,0 +1,7 @@
+org\apache\flink\api\java\io\jdbc\JDBCOutputFormat.class
+org\apache\flink\api\java\io\jdbc\split\NumericBetweenParametersProvider.class
+org\apache\flink\api\java\io\jdbc\JDBCOutputFormat$JDBCOutputFormatBuilder.class
+org\apache\flink\api\java\io\jdbc\split\ParameterValuesProvider.class
+org\apache\flink\api\java\io\jdbc\JDBCInputFormat$JDBCInputFormatBuilder.class
+org\apache\flink\api\java\io\jdbc\JDBCInputFormat.class
+org\apache\flink\api\java\io\jdbc\split\GenericParameterValuesProvider.class

@@ -1,0 +1,3 @@
+org\apache\flink\streaming\examples\java8\wordcount\WordCount.class
+org\apache\flink\examples\java8\wordcount\WordCount.class
+org\apache\flink\examples\java8\relational\TPCHQuery10.class

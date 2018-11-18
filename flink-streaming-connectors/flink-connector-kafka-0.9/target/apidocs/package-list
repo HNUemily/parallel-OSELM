@@ -1,0 +1,2 @@
+org.apache.flink.streaming.connectors.kafka
+org.apache.flink.streaming.connectors.kafka.internal

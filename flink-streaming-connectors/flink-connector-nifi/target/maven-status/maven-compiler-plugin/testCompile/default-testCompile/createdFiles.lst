@@ -1,0 +1,4 @@
+org\apache\flink\streaming\connectors\nifi\examples\NiFiSinkTopologyExample$1.class
+org\apache\flink\streaming\connectors\nifi\examples\NiFiSourceTopologyExample$1.class
+org\apache\flink\streaming\connectors\nifi\examples\NiFiSourceTopologyExample.class
+org\apache\flink\streaming\connectors\nifi\examples\NiFiSinkTopologyExample.class

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-fs-tests\src\test\resources\log4j-test.properties">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-fs-tests\src\test\resources\log4j.properties">
+</file>
+</checkstyle>

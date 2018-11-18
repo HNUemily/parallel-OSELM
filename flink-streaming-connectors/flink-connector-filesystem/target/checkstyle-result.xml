@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\AvroKeyValueSinkWriter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\Bucketer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\Clock.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\DateTimeBucketer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\NonRollingBucketer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\RollingSink.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\SequenceFileWriter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\StreamWriterBase.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\StringWriter.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\SystemClock.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\java\org\apache\flink\streaming\connectors\fs\Writer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\main\resources\log4j.properties">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-filesystem\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

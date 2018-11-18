@@ -1,0 +1,11 @@
+org.apache.flink.optimizer
+org.apache.flink.optimizer.costs
+org.apache.flink.optimizer.dag
+org.apache.flink.optimizer.dataproperties
+org.apache.flink.optimizer.operators
+org.apache.flink.optimizer.plan
+org.apache.flink.optimizer.plandump
+org.apache.flink.optimizer.plantranslate
+org.apache.flink.optimizer.postpass
+org.apache.flink.optimizer.traversals
+org.apache.flink.optimizer.util

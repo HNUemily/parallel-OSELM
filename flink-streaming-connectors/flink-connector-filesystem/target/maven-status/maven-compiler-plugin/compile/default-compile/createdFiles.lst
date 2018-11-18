@@ -1,0 +1,14 @@
+org\apache\flink\streaming\connectors\fs\StringWriter.class
+org\apache\flink\streaming\connectors\fs\DateTimeBucketer.class
+org\apache\flink\streaming\connectors\fs\NonRollingBucketer.class
+org\apache\flink\streaming\connectors\fs\SystemClock.class
+org\apache\flink\streaming\connectors\fs\RollingSink.class
+org\apache\flink\streaming\connectors\fs\RollingSink$BucketState.class
+org\apache\flink\streaming\connectors\fs\SequenceFileWriter.class
+org\apache\flink\streaming\connectors\fs\AvroKeyValueSinkWriter.class
+org\apache\flink\streaming\connectors\fs\AvroKeyValueSinkWriter$AvroKeyValueWriter.class
+org\apache\flink\streaming\connectors\fs\AvroKeyValueSinkWriter$AvroKeyValue.class
+org\apache\flink\streaming\connectors\fs\StreamWriterBase.class
+org\apache\flink\streaming\connectors\fs\Clock.class
+org\apache\flink\streaming\connectors\fs\Bucketer.class
+org\apache\flink\streaming\connectors\fs\Writer.class

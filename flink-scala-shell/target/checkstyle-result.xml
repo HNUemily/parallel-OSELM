@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-scala-shell\src\main\java\org\apache\flink\api\java\JarHelper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-scala-shell\src\main\java\org\apache\flink\api\java\ScalaShellRemoteEnvironment.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-scala-shell\src\main\java\org\apache\flink\api\java\ScalaShellRemoteStreamEnvironment.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-scala-shell\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

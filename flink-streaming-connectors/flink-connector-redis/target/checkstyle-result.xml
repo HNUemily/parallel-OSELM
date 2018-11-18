@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\config\FlinkJedisClusterConfig.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\config\FlinkJedisConfigBase.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\config\FlinkJedisPoolConfig.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\config\FlinkJedisSentinelConfig.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\container\RedisClusterContainer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\container\RedisCommandsContainer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\container\RedisCommandsContainerBuilder.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\container\RedisContainer.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\mapper\RedisCommand.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\mapper\RedisCommandDescription.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\mapper\RedisDataType.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\common\mapper\RedisMapper.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-redis\src\main\java\org\apache\flink\streaming\connectors\redis\RedisSink.java">
+</file>
+</checkstyle>

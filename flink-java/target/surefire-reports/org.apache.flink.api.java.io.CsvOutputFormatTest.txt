@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.flink.api.java.io.CsvOutputFormatTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.644 sec <<< FAILURE! - in org.apache.flink.api.java.io.CsvOutputFormatTest
+testNullDisallowOnDefault(org.apache.flink.api.java.io.CsvOutputFormatTest)  Time elapsed: 0.185 sec  <<< ERROR!
+java.nio.file.FileSystemException: C:\Users\ADMINI~1\AppData\Local\Temp\csv_output_test_file4062171684717248282.csv: 另一个程序正在使用此文件，进程无法访问。
+
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:86)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:269)
+	at sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:108)
+	at java.nio.file.Files.deleteIfExists(Files.java:1165)
+	at org.apache.flink.api.java.io.CsvOutputFormatTest.cleanUp(CsvOutputFormatTest.java:76)
+

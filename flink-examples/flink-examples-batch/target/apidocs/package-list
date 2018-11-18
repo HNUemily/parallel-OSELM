@@ -1,0 +1,12 @@
+org.apache.flink.examples.java.clustering
+org.apache.flink.examples.java.clustering.util
+org.apache.flink.examples.java.distcp
+org.apache.flink.examples.java.graph
+org.apache.flink.examples.java.graph.util
+org.apache.flink.examples.java.misc
+org.apache.flink.examples.java.ml
+org.apache.flink.examples.java.ml.util
+org.apache.flink.examples.java.relational
+org.apache.flink.examples.java.relational.util
+org.apache.flink.examples.java.wordcount
+org.apache.flink.examples.java.wordcount.util

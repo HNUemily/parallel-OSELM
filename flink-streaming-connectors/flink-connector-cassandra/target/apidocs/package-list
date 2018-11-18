@@ -1,0 +1,2 @@
+org.apache.flink.batch.connectors.cassandra
+org.apache.flink.streaming.connectors.cassandra

@@ -1,0 +1,5 @@
+org.apache.flink.streaming.connectors.kafka
+org.apache.flink.streaming.connectors.kafka.internals
+org.apache.flink.streaming.connectors.kafka.internals.metrics
+org.apache.flink.streaming.connectors.kafka.partitioner
+org.apache.flink.streaming.util.serialization

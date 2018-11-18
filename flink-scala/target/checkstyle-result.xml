@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-scala\src\main\java\org\apache\flink\api\scala\operators\ScalaAggregateOperator.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-scala\src\main\java\org\apache\flink\api\scala\operators\ScalaCsvOutputFormat.java">
+</file>
+</checkstyle>

@@ -1,0 +1,6 @@
+org\apache\flink\streaming\scala\api\CsvOutputFormatITCase.class
+org\apache\flink\streaming\scala\api\CsvOutputFormatITCase$1.class
+org\apache\flink\streaming\scala\api\StatefulFunctionITCase.class
+org\apache\flink\streaming\scala\api\CsvOutputFormatITCase$Tokenizer.class
+org\apache\flink\streaming\scala\api\TextOutputFormatITCase.class
+org\apache\flink\streaming\scala\api\TextOutputFormatITCase$1.class

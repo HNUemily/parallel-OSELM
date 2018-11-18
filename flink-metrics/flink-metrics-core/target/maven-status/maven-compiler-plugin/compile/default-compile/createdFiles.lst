@@ -1,0 +1,13 @@
+org\apache\flink\metrics\MetricConfig.class
+org\apache\flink\metrics\reporter\MetricReporter.class
+org\apache\flink\metrics\reporter\Scheduled.class
+org\apache\flink\metrics\Metric.class
+org\apache\flink\metrics\Gauge.class
+org\apache\flink\metrics\SimpleCounter.class
+org\apache\flink\metrics\groups\UnregisteredMetricsGroup.class
+org\apache\flink\metrics\reporter\AbstractReporter.class
+org\apache\flink\metrics\Counter.class
+org\apache\flink\metrics\HistogramStatistics.class
+org\apache\flink\metrics\MetricGroup.class
+org\apache\flink\metrics\Histogram.class
+org\apache\flink\metrics\CharacterFilter.class

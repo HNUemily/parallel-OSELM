@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-KMeans.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/KMeans.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-ConnectedComponents.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/ConnectedComponents.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-EnumTriangles.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/EnumTriangles.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-PageRank.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/PageRank.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-TransitiveClosure.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/TransitiveClosure.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-WebLogAnalysis.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/WebLogAnalysis.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-WordCount.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/WordCount.jar"/>
+  <copy file="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/flink-examples-batch_2.10-1.1.4-DistCp.jar" tofile="E:\flink\flink-1.1.4\flink-examples\flink-examples-batch/target/DistCp.jar"/>
+</target>
+</project>

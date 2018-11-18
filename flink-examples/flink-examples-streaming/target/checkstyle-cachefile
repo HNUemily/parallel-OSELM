@@ -1,0 +1,22 @@
+#Mon Apr 17 20:43:05 CST 2017
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\join\\WindowJoinSampleData.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\windowing\\util\\TopSpeedWindowingExampleData.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\wordcount\\WordCount.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\join\\WindowJoin.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\iteration\\util\\IterateExampleData.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\kafka\\ReadFromKafka.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\iteration\\IterateExample.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\socket\\SocketWindowWordCount.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\utils\\ThrottledIterator.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\windowing\\TopSpeedWindowing.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\windowing\\util\\SessionWindowingData.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\twitter\\TwitterExample.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\windowing\\SessionWindowing.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\windowing\\WindowWordCount.java=1482144169000
+configuration*?=7CB8F3B1615A9FACF3627934F0EAFE60063475E9
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\kafka\\WriteIntoKafka.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\wordcount\\PojoExample.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\twitter\\util\\TwitterExampleData.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\ml\\util\\IncrementalLearningSkeletonData.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\windowing\\GroupedProcessingTimeWindowExample.java=1482144169000
+E\:\\flink\\flink-1.1.4\\flink-examples\\flink-examples-streaming\\src\\main\\java\\org\\apache\\flink\\streaming\\examples\\ml\\IncrementalLearningSkeleton.java=1482144169000

@@ -1,0 +1,3 @@
+org\apache\flink\streaming\connectors\flume\FlumeSink$1.class
+org\apache\flink\streaming\connectors\flume\FlumeSink.class
+org\apache\flink\streaming\connectors\flume\FlumeSink$FlinkRpcClientFacade.class

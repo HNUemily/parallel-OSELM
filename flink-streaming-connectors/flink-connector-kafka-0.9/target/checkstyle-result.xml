@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer09.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer09.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\internal\Kafka09Fetcher.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka09JsonTableSource.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka09TableSource.java">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\main\resources\log4j.properties">
+</file>
+<file name="E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.9\src\test\resources\log4j-test.properties">
+</file>
+</checkstyle>

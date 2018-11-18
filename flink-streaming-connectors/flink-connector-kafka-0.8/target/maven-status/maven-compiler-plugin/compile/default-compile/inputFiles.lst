@@ -1,0 +1,14 @@
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer082.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\SimpleConsumerThread.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\ZookeeperOffsetHandler.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\PeriodicOffsetCommitter.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\Kafka08Fetcher.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer081.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaProducer08.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka08TableSource.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\FlinkKafkaConsumer08.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\KillerWatchDog.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\ClosableBlockingQueue.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\Kafka08JsonTableSource.java
+E:\flink\flink-1.1.4\flink-streaming-connectors\flink-connector-kafka-0.8\src\main\java\org\apache\flink\streaming\connectors\kafka\internals\PartitionInfoFetcher.java

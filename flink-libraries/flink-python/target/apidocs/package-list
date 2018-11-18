@@ -1,0 +1,7 @@
+org.apache.flink.python.api
+org.apache.flink.python.api.functions
+org.apache.flink.python.api.functions.util
+org.apache.flink.python.api.streaming.data
+org.apache.flink.python.api.streaming.plan
+org.apache.flink.python.api.streaming.util
+org.apache.flink.python.api.types

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/flink-quickstart/flink-quickstart-java/src/main/resources/archetype-resources" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/flink-quickstart/flink-quickstart-scala/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flink-annotations" />
+        <module name="flink-avro_2.10" />
+        <module name="flink-cep-scala_2.10" />
+        <module name="flink-cep_2.10" />
+        <module name="flink-clients_2.10" />
+        <module name="flink-connector-cassandra_2.10" />
+        <module name="flink-connector-elasticsearch2_2.10" />
+        <module name="flink-connector-elasticsearch_2.10" />
+        <module name="flink-connector-filesystem_2.10" />
+        <module name="flink-connector-flume_2.10" />
+        <module name="flink-connector-kafka-0.8_2.10" />
+        <module name="flink-connector-kafka-0.9_2.10" />
+        <module name="flink-connector-kafka-base_2.10" />
+        <module name="flink-connector-nifi_2.10" />
+        <module name="flink-connector-rabbitmq_2.10" />
+        <module name="flink-connector-redis_2.10" />
+        <module name="flink-connector-twitter_2.10" />
+        <module name="flink-connector-wikiedits_2.10" />
+        <module name="flink-core" />
+        <module name="flink-dist_2.10" />
+        <module name="flink-examples-batch_2.10" />
+        <module name="flink-examples-streaming_2.10" />
+        <module name="flink-fs-tests_2.10" />
+        <module name="flink-gelly-examples_2.10" />
+        <module name="flink-gelly-scala_2.10" />
+        <module name="flink-gelly_2.10" />
+        <module name="flink-hadoop-compatibility_2.10" />
+        <module name="flink-hbase_2.10" />
+        <module name="flink-hcatalog" />
+        <module name="flink-java" />
+        <module name="flink-java8_2.10" />
+        <module name="flink-jdbc" />
+        <module name="flink-metrics-core" />
+        <module name="flink-metrics-dropwizard" />
+        <module name="flink-metrics-ganglia" />
+        <module name="flink-metrics-graphite" />
+        <module name="flink-metrics-jmx" />
+        <module name="flink-metrics-statsd" />
+        <module name="flink-ml_2.10" />
+        <module name="flink-operator-stats_2.10" />
+        <module name="flink-optimizer_2.10" />
+        <module name="flink-python_2.10" />
+        <module name="flink-quickstart-java" />
+        <module name="flink-quickstart-scala" />
+        <module name="flink-runtime-web_2.10" />
+        <module name="flink-runtime_2.10" />
+        <module name="flink-scala-shell_2.10" />
+        <module name="flink-scala_2.10" />
+        <module name="flink-shaded-curator-recipes" />
+        <module name="flink-shaded-curator-test" />
+        <module name="flink-shaded-include-yarn-tests" />
+        <module name="flink-statebackend-rocksdb_2.10" />
+        <module name="flink-storm-examples_2.10" />
+        <module name="flink-storm_2.10" />
+        <module name="flink-streaming-contrib_2.10" />
+        <module name="flink-streaming-java_2.10" />
+        <module name="flink-streaming-scala_2.10" />
+        <module name="flink-table_2.10" />
+        <module name="flink-test-utils-junit" />
+        <module name="flink-test-utils_2.10" />
+        <module name="flink-tests_2.10" />
+        <module name="flink-tweet-inputformat_2.10" />
+        <module name="flink-yarn_2.10" />
+        <module name="force-shading" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flink-annotations" target="1.7" />
+      <module name="flink-avro_2.10" target="1.7" />
+      <module name="flink-batch-connectors" target="1.7" />
+      <module name="flink-cep-scala_2.10" target="1.7" />
+      <module name="flink-cep_2.10" target="1.7" />
+      <module name="flink-clients_2.10" target="1.7" />
+      <module name="flink-connector-cassandra_2.10" target="1.7" />
+      <module name="flink-connector-elasticsearch2_2.10" target="1.7" />
+      <module name="flink-connector-elasticsearch_2.10" target="1.7" />
+      <module name="flink-connector-filesystem_2.10" target="1.7" />
+      <module name="flink-connector-flume_2.10" target="1.7" />
+      <module name="flink-connector-kafka-0.8_2.10" target="1.7" />
+      <module name="flink-connector-kafka-0.9_2.10" target="1.7" />
+      <module name="flink-connector-kafka-base_2.10" target="1.7" />
+      <module name="flink-connector-nifi_2.10" target="1.7" />
+      <module name="flink-connector-rabbitmq_2.10" target="1.7" />
+      <module name="flink-connector-redis_2.10" target="1.7" />
+      <module name="flink-connector-twitter_2.10" target="1.7" />
+      <module name="flink-connector-wikiedits_2.10" target="1.7" />
+      <module name="flink-contrib" target="1.7" />
+      <module name="flink-core" target="1.7" />
+      <module name="flink-dist_2.10" target="1.7" />
+      <module name="flink-examples-batch_2.10" target="1.7" />
+      <module name="flink-examples-streaming_2.10" target="1.7" />
+      <module name="flink-examples_2.10" target="1.7" />
+      <module name="flink-fs-tests_2.10" target="1.7" />
+      <module name="flink-gelly-examples_2.10" target="1.7" />
+      <module name="flink-gelly-scala_2.10" target="1.7" />
+      <module name="flink-gelly_2.10" target="1.7" />
+      <module name="flink-hadoop-compatibility_2.10" target="1.7" />
+      <module name="flink-hbase_2.10" target="1.7" />
+      <module name="flink-hcatalog" target="1.7" />
+      <module name="flink-java" target="1.7" />
+      <module name="flink-java8_2.10" target="1.8" />
+      <module name="flink-jdbc" target="1.7" />
+      <module name="flink-libraries" target="1.7" />
+      <module name="flink-metrics" target="1.7" />
+      <module name="flink-metrics-core" target="1.7" />
+      <module name="flink-metrics-dropwizard" target="1.7" />
+      <module name="flink-metrics-ganglia" target="1.7" />
+      <module name="flink-metrics-graphite" target="1.7" />
+      <module name="flink-metrics-jmx" target="1.7" />
+      <module name="flink-metrics-statsd" target="1.7" />
+      <module name="flink-ml_2.10" target="1.7" />
+      <module name="flink-operator-stats_2.10" target="1.7" />
+      <module name="flink-optimizer_2.10" target="1.7" />
+      <module name="flink-parent" target="1.7" />
+      <module name="flink-python_2.10" target="1.7" />
+      <module name="flink-quickstart" target="1.7" />
+      <module name="flink-quickstart-java" target="1.7" />
+      <module name="flink-quickstart-scala" target="1.7" />
+      <module name="flink-runtime-web_2.10" target="1.7" />
+      <module name="flink-runtime_2.10" target="1.7" />
+      <module name="flink-scala-shell_2.10" target="1.7" />
+      <module name="flink-scala_2.10" target="1.7" />
+      <module name="flink-shaded-curator" target="1.7" />
+      <module name="flink-shaded-curator-recipes" target="1.7" />
+      <module name="flink-shaded-curator-test" target="1.7" />
+      <module name="flink-shaded-hadoop" target="1.7" />
+      <module name="flink-shaded-include-yarn-tests" target="1.7" />
+      <module name="flink-statebackend-rocksdb_2.10" target="1.7" />
+      <module name="flink-storm-examples_2.10" target="1.7" />
+      <module name="flink-storm_2.10" target="1.7" />
+      <module name="flink-streaming-connectors" target="1.7" />
+      <module name="flink-streaming-contrib_2.10" target="1.7" />
+      <module name="flink-streaming-java_2.10" target="1.7" />
+      <module name="flink-streaming-scala_2.10" target="1.7" />
+      <module name="flink-table_2.10" target="1.7" />
+      <module name="flink-test-utils-junit" target="1.7" />
+      <module name="flink-test-utils-parent" target="1.7" />
+      <module name="flink-test-utils_2.10" target="1.7" />
+      <module name="flink-tests_2.10" target="1.7" />
+      <module name="flink-tweet-inputformat_2.10" target="1.7" />
+      <module name="flink-yarn_2.10" target="1.7" />
+      <module name="force-shading" target="1.4" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

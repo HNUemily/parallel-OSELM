@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.375 sec - in org.apache.flink.api.common.typeutils.base.array.StringArraySerializerTest

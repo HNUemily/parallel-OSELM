@@ -1,0 +1,5 @@
+org\apache\flink\contrib\streaming\CollectSink.class
+org\apache\flink\contrib\streaming\DataStreamUtils$1.class
+org\apache\flink\contrib\streaming\SocketStreamIterator.class
+org\apache\flink\contrib\streaming\DataStreamUtils$CallExecute.class
+org\apache\flink\contrib\streaming\DataStreamUtils.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.flink.core.memory.HeapMemorySegmentTest
+-------------------------------------------------------------------------------
+Tests run: 81, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.454 sec - in org.apache.flink.core.memory.HeapMemorySegmentTest
