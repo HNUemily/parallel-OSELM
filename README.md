@@ -146,8 +146,10 @@ Contact us if you are looking for implementation tasks that fit your skills.
 This article describes [how to contribute to Apache Flink](http://flink.apache.org/how-to-contribute.html).
 
 
-## About
+##oselm
 
-Apache Flink is an open source project of The Apache Software Foundation (ASF).
-The Apache Flink project originated from the [Stratosphere](http://stratosphere.eu) research project.
+The online-sequence algorithm is completed using flink batch(my next work is to finish the work using flink stream)
+,the code is located in 
+flink-1.1.4/flink-examples/flink-examples-batch/src/main/java/org/apache/flink/examples/java/POSELM
+
 
